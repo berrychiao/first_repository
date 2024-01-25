@@ -69,8 +69,6 @@ public class WebPageFetcher {
         } else {
             System.out.println("GET请求失败，响应码：" + responseCode);
         }
-
-
     }
 
 }
